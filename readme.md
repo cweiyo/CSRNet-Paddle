@@ -26,3 +26,8 @@ This is a simple and clean implemention of CVPR 2018 paper ["CSRNet: Dilated Con
 1. We trained the model and got 14.19  MAE  and 484.35 MSE at 471-th epoch on ShanghaiTech PartB.
 2. For some reasons , the result is still a bit behind the paper. If you get better result , I hope you can tell me.
 
+
+try
+
+### let me try
+
